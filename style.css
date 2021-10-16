@@ -1,0 +1,33 @@
+.Block{
+    width: 420px;
+    background-color: darkgrey;
+    height: 520px;
+}
+.IMGRS{
+    width: 100%;
+}
+.Title{
+    font-family: 'Scheherazade New', serif;
+    margin: 0;
+    padding-left: 10px;
+    color: purple;
+}
+.Text{
+    font-size: 18px;
+    font-family: 'Scheherazade New', serif;
+    padding-left: 10px;
+    color: white;
+    margin: 0px;
+    padding-right: 10px;
+}
+.Status{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.Com, .Likes{
+    color: yellow;
+    font-family: 'Scheherazade New', serif;
+    
+}
